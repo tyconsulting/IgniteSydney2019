@@ -1,9 +1,9 @@
 # Microsoft Ignite the Tour Sydney 2019: BRK3603 - Architecting Security and Cloud governance at scale – notes from the field
 ## Speakers:
 | Name | Twitter Handler | Comment
-|:--- | :---: | :---
-|**Alexandre Verkinderen**|@AlexVerkinderen| Microsoft MVP: Azure |
-|**Tao Yang**|@MrTaoYang| Microsoft MVP: Cloud & Datacenter Management |
+|:--- | :--- | :---
+|**Alexandre Verkinderen**|[@AlexVerkinderen](https://twitter.com/alexverkinderen)| Microsoft MVP: Azure |
+|**Tao Yang**|[@MrTaoYang](https://twitter.com/mrtaoyang)| Microsoft MVP: Cloud & Datacenter Management |
 
 ## Introduction
 This repository contains artifacts used in the demo of Alex and Tao's Azure Governance session at Ignite Tour Sydney Feb 2019.
