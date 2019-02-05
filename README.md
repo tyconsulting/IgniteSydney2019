@@ -22,4 +22,4 @@ The **Restrict Public Storage Accounts Initiative** contains two (2) policies. B
 * Restrict Storage Accounts firewall rules: [https://github.com/tyconsulting/azurepolicy/tree/master/policy-definitions/restrict-storageAccount-firewall-rules](https://github.com/tyconsulting/azurepolicy/tree/master/policy-definitions/restrict-storageAccount-firewall-rules)
 
 ### Azure Resource Graph
-The demo script for Azure Resource Graph is located in [this repo](../blob/master/resourceGraph/DemoQuery.ps1).
+The demo script for Azure Resource Graph is located in [this repo](../master/resourceGraph/DemoQuery.ps1).
